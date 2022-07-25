@@ -8,15 +8,15 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'Web Print Service Documentation',
   tagline: 'Desktop Print Service and Application',
-  url: 'https://your-docusaurus-test-site.com',
-  baseUrl: '/',
+  url: 'https://jdcryer.github.io',
+  baseUrl: '/web-print-service-docs/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'telekinetix', // Usually your GitHub org/user name.
+  organizationName: 'jdcryer', // Usually your GitHub org/user name.
   projectName: 'Web-Print-Service-Docs', // Usually your repo name.
 
   // Even if you don't use internalization, you can use this field to set useful
