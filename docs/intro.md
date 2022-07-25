@@ -20,5 +20,21 @@ A long barcode label run can be generated from a job or a list of products and s
 ### PDF Print Jobs
 PDF files for invoices, quotes, reports and other jobs would usually have to be downloaded and the printed.  You then have to file or delete the files that you have downloaded.  The print web service will receive the PDF document specified by the print job and clear up the file after printing.
 
+## Version History
+
+v1.0.0 - TBA - Initial Release - August 2020
+
+## Credits
+
+Web Print Service was create by Telekinetix Limited.
+
+Pimary developers are:
+- Joseph Cryer
+- Samuel Guard
+
+Design and server side support by:
+- J Douglas Cryer
+- Tom Bartram
+
 
 
