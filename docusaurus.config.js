@@ -9,7 +9,7 @@ const config = {
   title: 'Web Print Service Documentation',
   tagline: 'Desktop Print Service and Application',
   url: 'https://jdcryer.github.io',
-  baseUrl: '/web-print-service-docs/',
+  baseUrl: '/Web-Print-Service-Docs/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
