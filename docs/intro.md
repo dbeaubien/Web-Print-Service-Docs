@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-# Introduction
+# Introduction (DANI WAS HERE)
 
 Printing from a web page is often limiting as the web application cannot diretly access your available printers and can only really print web page content.
 
